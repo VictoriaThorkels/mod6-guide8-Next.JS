@@ -2,7 +2,7 @@
 
 next.js-written assignment.
 
-After talking to Smári about this project, he told me that since we had already used all the basic functionalities that come up in next.js. That I could write about the functionality and the framework itself to show a basic understanding.
+After talking to Smári about this project, he told me that since we had already used all the basic functionalities that come up in next.js. That I could write about the functionality and frameworks to show a basic understanding.
 
 
 Understand the different ways of rendering HTML and the pros and cons of each of them:
